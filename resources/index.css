@@ -1,6 +1,7 @@
 body {
     font-family: 'Ubuntu', sans-serif;
     margin: 0 10%;
+    margin-bottom: 25px;
 
 }
 
@@ -37,6 +38,76 @@ body {
     color: #FFFFFF
 }
 
+.container-fonts {
+    text-align: center;
+}
+
+.font-viz {
+    display: inline-block;
+    margin: 5px;
+}
+
+.font-label {
+    font-size: 27px;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.sentence {
+    font-size: 14px;
+    text-align: left;
+
+}
+
+.style-container {
+    text-align: center;
+}
+
+.style-viz {
+    display: inline-block;
+    width: 250px;
+    height:auto;
+    margin: 30px;
+}
+
+.style-heading {
+    font-size: 25px;
+}
+
+.style-subheading {
+    font-size: 20px;
+    font-weight: 550;
+}
+
+.style-list {
+    text-align: left;
+}
+.style-paragraph {
+    font-size: 15px;
+}
+.ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+}
 .orange {
     background-color: #FFA42E;
 
